@@ -1,0 +1,1 @@
+   afficher_liste(liste);
